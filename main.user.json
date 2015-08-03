@@ -1,0 +1,13 @@
+{
+	"filters": {
+		"roundtrip": [
+			// "autoproxy",
+			// "auth",
+			// "iplist",
+			"php",
+			"gae",
+			"vps",
+			"direct"
+		]
+	}
+}

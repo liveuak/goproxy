@@ -1,0 +1,13 @@
+{
+	"fetchservers": [
+		{
+			"url": "https://mygo-yxorpog.rhcloud.com/",
+			"password": "123456",
+			"sslverify": false
+		}
+	],
+	"sites": [
+		"*"
+	],
+	"transport": "direct"
+}
